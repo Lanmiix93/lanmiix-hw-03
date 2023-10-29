@@ -37,7 +37,8 @@ git push origin
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-
+https://github.com/Lanmiix93/lanmiix-hw-03/blob/main/Задание-1.2.png (RAM)
+https://github.com/Lanmiix93/lanmiix-hw-03/blob/main/Задание-1.png (CPU)
 
 
 ---
@@ -59,7 +60,8 @@ git push origin
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+https://github.com/Lanmiix93/lanmiix-hw-03/blob/main/Задание-2.png (Созданные хосты)
+https://github.com/Lanmiix93/lanmiix-hw-03/blob/main/Задание-2.2.png (Latest Data)
 
 
 ---
@@ -78,7 +80,7 @@ git push origin
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+https://github.com/Lanmiix93/lanmiix-hw-03/blob/main/Задание-3.png (Шаблоны на хостах)
 
 ### Задание 4
 
@@ -97,7 +99,7 @@ git push origin
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+https://github.com/Lanmiix93/lanmiix-hw-03/blob/main/Задание-4.png (Графики)
 
 ---
 
