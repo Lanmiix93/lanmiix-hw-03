@@ -74,7 +74,7 @@ git push origin
 ```
 Поле для вставки кода...
 git commit -m "название commit"
-git pell origin
+git push origin
 ```
 
 `При необходимости прикрепитe сюда скриншоты
@@ -91,10 +91,9 @@ git pell origin
 
 ```
 Поле для вставки кода...
-....
-....
-....
-....
+git commit -m "название commit"
+git add *
+git push origin
 ```
 
 `При необходимости прикрепитe сюда скриншоты
